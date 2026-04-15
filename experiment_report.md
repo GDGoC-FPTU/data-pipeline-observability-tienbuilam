@@ -21,8 +21,6 @@ Chay `agent_simulation.py` voi 2 bo du lieu va ghi lai ket qua:
 
 ### Tai sao Agent tra loi sai khi dung Garbage Data?
 
-### Tai sao Agent tra loi sai khi dung Garbage Data?
-
 Khi sử dụng dữ liệu rác, AI Agent dễ dàng bị cung cấp những thông tin sai lệch dẫn đến "ảo giác" hoặc tính toán sai lầm. Cụ thể trong dữ liệu lỗi:
 
 1. **Outliers**: Có những sản phẩm không đúng thực tế như "Nuclear Reactor" với giá ảo ($999999). Agent không có kiến thức mặc định để tự từ chối mà dễ tin tưởng trỏ đến kết quả bất thường nhất.
